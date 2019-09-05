@@ -27,3 +27,4 @@ Discussion:
 """
 
 print('hello advanced deep learning')
+print('hello advanced deep learning')
